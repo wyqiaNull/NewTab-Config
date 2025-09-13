@@ -1,0 +1,239 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "21.2.1"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "",
+  "greetingsize": "3",
+  "pagegap": 0,
+  "pagewidth": 1000,
+  "time": true,
+  "main": false,
+  "dateformat": "auto",
+  "quicklinks": true,
+  "textShadow": 0.175,
+  "announcements": "major",
+  "review": -1,
+  "css": "",
+  "hide": {
+    "greetings": true,
+    "settingsicon": true,
+    "weatherdesc": false,
+    "weathericon": false
+  },
+  "linkstyle": "large",
+  "linktitles": false,
+  "linkbackgrounds": false,
+  "linknewtab": false,
+  "linksrow": "6",
+  "linkgroups": {
+    "on": false,
+    "selected": "default",
+    "groups": [
+      "default"
+    ],
+    "pinned": [],
+    "synced": []
+  },
+  "backgrounds": {
+    "type": "images",
+    "fadein": 600,
+    "blur": 2,
+    "bright": 1,
+    "frequency": "hour",
+    "color": "#185A63",
+    "urls": "",
+    "images": "bonjourr-images-daylight",
+    "videos": "bonjourr-videos-daylight",
+    "queries": {},
+    "texture": {
+      "type": "none"
+    }
+  },
+  "clock": {
+    "size": 1,
+    "ampm": false,
+    "analog": false,
+    "seconds": false,
+    "ampmlabel": false,
+    "worldclocks": false,
+    "timezone": "auto"
+  },
+  "worldclocks": [],
+  "analogstyle": {
+    "face": "none",
+    "hands": "modern",
+    "shape": "round",
+    "border": "#ffff",
+    "background": "#fff2"
+  },
+  "weather": {
+    "city": "wan-chai",
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "none",
+    "forecast": "auto",
+    "temperature": "actual",
+    "geolocation": "approximate"
+  },
+  "notes": {
+    "on": false,
+    "width": 40,
+    "opacity": 0.1,
+    "align": "left",
+    "text": "## Edit this note!\n\n[ ] With markdown titles, lists, and checkboxes\n\n[ ] Learn more on https://bonjourr.fr/docs/overview"
+  },
+  "searchbar": {
+    "on": true,
+    "width": 40,
+    "opacity": 0.1,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "bing",
+    "request": "",
+    "placeholder": ""
+  },
+  "quotes": {
+    "on": false,
+    "type": "classic",
+    "frequency": "day",
+    "author": false,
+    "last": 1757728198795
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weightlist": [
+      "300",
+      "400",
+      "600",
+      "700",
+      "800"
+    ],
+    "weight": "400"
+  },
+  "supporters": {
+    "enabled": true,
+    "closed": false,
+    "month": 9
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ]
+        ],
+        "items": {
+          "time": {
+            "text": "",
+            "box": "center"
+          },
+          "main": {
+            "text": "",
+            "box": "end center"
+          },
+          "quicklinks": {
+            "text": "",
+            "box": "center"
+          },
+          "searchbar": {
+            "text": "",
+            "box": "center"
+          }
+        }
+      }
+    }
+  },
+  "linkscderpo": {
+    "_id": "linkscderpo",
+    "order": 5,
+    "parent": "default",
+    "title": "",
+    "url": "https://github.com/"
+  },
+  "linkschnlrc": {
+    "_id": "linkschnlrc",
+    "order": 0,
+    "parent": "default",
+    "title": "",
+    "url": "https://www.google.com/"
+  },
+  "linksdlahkd": {
+    "_id": "linksdlahkd",
+    "order": 4,
+    "parent": "default",
+    "title": "",
+    "url": "https://chat.deepseek.com/"
+  },
+  "linksdnqbqm": {
+    "_id": "linksdnqbqm",
+    "order": 8,
+    "parent": "default",
+    "title": "",
+    "url": "https://leetcode.cn/"
+  },
+  "linksfdohqf": {
+    "_id": "linksfdohqf",
+    "order": 7,
+    "parent": "default",
+    "title": "",
+    "url": "https://www.overleaf.com/project"
+  },
+  "linksfpjldd": {
+    "_id": "linksfpjldd",
+    "order": 6,
+    "parent": "default",
+    "title": "",
+    "url": "https://www.bilibili.com/"
+  },
+  "linksgikbko": {
+    "_id": "linksgikbko",
+    "order": 9,
+    "parent": "default",
+    "title": "",
+    "url": "https://netron.app/"
+  },
+  "linksgoffjh": {
+    "_id": "linksgoffjh",
+    "order": 10,
+    "parent": "default",
+    "title": "",
+    "url": "https://scholar.google.com/"
+  },
+  "linksmpejhq": {
+    "_id": "linksmpejhq",
+    "order": 1,
+    "parent": "default",
+    "title": "",
+    "url": "https://www.youtube.com/"
+  },
+  "linksqoiirh": {
+    "_id": "linksqoiirh",
+    "order": 2,
+    "parent": "default",
+    "title": "",
+    "url": "https://translate.google.com/"
+  },
+  "linksqooaaa": {
+    "_id": "linksqooaaa",
+    "order": 3,
+    "parent": "default",
+    "title": "",
+    "url": "https://chatgpt.com/"
+  }
+}
